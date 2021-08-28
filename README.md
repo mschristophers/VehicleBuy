@@ -1,5 +1,4 @@
-## The iOS version is available in the following link:
-https://github.com/michaelwinailan/vehiclebuy
+## The iOS version is available in the following link: https://github.com/michaelwinailan/vehiclebuy
 
 
 
