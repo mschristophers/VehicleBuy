@@ -1,3 +1,6 @@
+## The iOS version is available in the following link:
+https://github.com/michaelwinailan/vehiclebuy
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
